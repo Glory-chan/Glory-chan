@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E12AQEgl2qx_qa6GA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687671609533?e=2147483647&v=beta&t=ofoYNm85ToFExu15YirTjBqckjt59Dvy2y_0u-1To-w" alt="Profile Banner" width="400" height="200">
+</div>
 
   👋 Bonjour, je suis Godglory Ewoènam KONDO, étudiant en Master Big Data & Business Intelligence à l'ÉSTIAM Paris.
 
@@ -43,6 +44,7 @@
   - **Sport:** Football
   - **Lecture:** Romans Policier
 
+<div align="center">
   ## 📈 Statistiques GitHub
   [![Godglory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glory-chan&show_icons=true&theme=radical)](https://github.com/Glory-chan)
 </div>
