@@ -44,7 +44,8 @@
   - **Sport:** Football
   - **Lecture:** Romans Policier
 
-<div align="center">
+
   ## 📈 Statistiques GitHub
+<div align="center">
   [![Godglory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glory-chan&show_icons=true&theme=radical)](https://github.com/Glory-chan)
 </div>
