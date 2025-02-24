@@ -1,6 +1,6 @@
 # Godglory Ewoènam KONDO
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.santanderopenacademy.com%2Fes%2Fblog%2Fprincipales-aplicaciones-big-data.html&psig=AOvVaw24AcDY9MsDe27E5pKlRM7T&ust=1740519513430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj10Nii3YsDFQAAAAAdAAAAABAJ)
+![Profile Banner](https://innowise.com/wp-content/uploads/2024/01/BigDataTrends01.jpg)
 
 👋 Bonjour, je suis Godglory Ewoènam KONDO, étudiant en Master Big Data & Business Intelligence à l'ÉSTIAM Paris.
 
