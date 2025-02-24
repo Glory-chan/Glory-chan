@@ -12,10 +12,18 @@
   - **Twitter:** [@Godglory](https://x.com/glory_kondo)
 
   ## 🚀 Compétences
-  - **Langages de programmation:** Python, SQL, JavaScript, NodeJS, PHP, Dart
-  - **Technologies:** MongoDB, MySQL, Power BI, Google Analytics
-  - **Outils DevOps:** Docker
-  - **Frameworks:** Laravel, Flutter
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+</div>
 
   ## 💼 Expériences professionnelles
   - **Développeur Full-Stack** (projet étudiant) @ ESTIAM Paris
@@ -46,6 +54,5 @@
 
 
   ## 📈 Statistiques GitHub
-<div align="center">
   [![Godglory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glory-chan&show_icons=true&theme=radical)](https://github.com/Glory-chan)
-</div>
+
